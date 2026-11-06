@@ -1,0 +1,23 @@
+# Build output
+**/target/
+
+# IDE metadata
+**/.idea/
+*.iml
+
+# Local runtime data
+logs/
+*.log
+**/postgres-data/
+
+# Local configuration and secrets
+.env
+**/.env
+*.local
+
+logs/
+*.log
+**/target/
+**/.idea/
+.env
+**/.env
